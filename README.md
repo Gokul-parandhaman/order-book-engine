@@ -1,6 +1,6 @@
 # Order Book Matching Engine + Backtester (C++)
 
-**Status: In Progress** 🚧
+**Status: In Progress**
 
 A limit order book matching engine implementing price-time priority, built
 to explore low-latency systems design in the context of exchange
