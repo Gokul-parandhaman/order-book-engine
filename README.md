@@ -57,7 +57,3 @@ make
 4. Add benchmarking harness, report orders/sec and per-order latency
 5. Build backtester on top, add a first strategy
 6. Pull in historical exchange data for realistic backtests
-
-## License
-
-MIT
